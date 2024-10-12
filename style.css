@@ -1,0 +1,46 @@
+body {
+  background-color: gray;
+}
+
+h1 {
+  font-family: "Sixtyfour Convergence", sans-serif;
+  color: white;
+  text-align: center; }
+
+#another{
+ color: red;
+}
+
+.para {
+  color: blue;
+  font-size: 40px;
+  margin: 20px;
+}
+
+* {
+/*  border: 5px solid red;*/
+}
+
+.alink {
+  margin: 20px;
+}
+
+table{
+   margin: auto;
+}
+
+/*body {
+  background-image: url("jack.jpg");
+  background-repeat: repeat;
+}*/
+
+.linktext{
+  font-size: 50px;
+  margin: 40px;
+  font-family: "Jura", sans-serif;
+}
+
+.bird{
+  margin-right: 40px;
+  margin-left: 40px;
+}
